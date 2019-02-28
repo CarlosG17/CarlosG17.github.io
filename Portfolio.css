@@ -1,4 +1,22 @@
 a{
     text-align: center;
+}
+
+.projects{
+display: flex;
+justify-content:center; 
+height:100px;
+font-size:20px;
+color:yellow;
+}
+html{
+    background-image:url("https://media.giphy.com/media/l4hLyOGRJWNSR8QQ8/giphy.gif");
+    background-size:100%;
     
+    
+}
+h3{
+    color:Yellow; 
+    font-size: 45px;
+    font-weight:bold;
 }

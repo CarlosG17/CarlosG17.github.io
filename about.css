@@ -1,0 +1,23 @@
+html{
+     background-image:url("https://media.giphy.com/media/qxaRumIP1tZOE/giphy.gif");
+     background-size:100%;
+}
+ul{
+   font-weight: bold;
+    font-size: 30px;
+    color: yellow;
+    background-color:;
+} 
+li{
+    font-weight: bold;
+    font-size: 30px;
+    color:Cyan;
+    background-color:;
+    
+}
+p{
+font-weight: bold;
+    font-size: 30px;
+    color:yellow;
+    background-color: ;
+}
